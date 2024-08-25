@@ -1,2 +1,2 @@
 # Weather
-This is project for weather check temp
+This is project for weather check temp.
